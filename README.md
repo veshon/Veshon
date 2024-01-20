@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Veshon Mabima</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+<p align="left"> <a href="https://twitter.com/veshon mabima" target="blank"><img src="https://img.shields.io/twitter/follow/veshon mabima?logo=twitter&style=for-the-badge" alt="veshon mabima" /></a> </p>
+
 - 🌱 I’m currently learning **Internet Technologies**
+
+- 📝 I regularly write articles on [https://medium.com/@vashonmabima12](https://medium.com/@vashonmabima12)
 
 - 📫 How to reach me **vashonmabima12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/veshon mabima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veshon mabima" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/veshon mabima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veshon mabima" height="30" width="40" /></a>
 <a href="https://fb.com/veshon mabima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veshon mabima" height="30" width="40" /></a>
 <a href="https://instagram.com/veshon___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veshon___" height="30" width="40" /></a>
